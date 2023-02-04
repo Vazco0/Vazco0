@@ -1,10 +1,12 @@
-### Olá! eu sou o Vazco0👋
+### Hi! I'm Vazco0👋
 
-- 🔭 atualmente trabalho fora da programção 
-- 🌱 Estudando python, nodeJs , sql e css
-- 📫 Contate-me no email: Gabriel.vaz.franco@gmail.com
-- 😄 Pronome: Ele/Dele
+🔭 I currently work off schedule
 
+🌱 Studying python, nodeJs, sql and css
+
+📫 Contact me at email: Gabriel.vaz.franco@gmail.com
+
+😄 Pronoun: He/His
 
   
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true&Border=0456DD">
