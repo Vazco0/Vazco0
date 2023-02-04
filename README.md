@@ -5,14 +5,13 @@
 - 📫 Contate-me no email: Gabriel.vaz.franco@gmail.com
 - 😄 Pronome: Ele/Dele
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: blue), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">
+    <img  alt="Vazco0's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vazco0?cardType=github&theme=github-dark&preferLogin=true" />
+  </a>
+
+  
+  
+
+
+
