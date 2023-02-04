@@ -6,8 +6,9 @@
 - 😄 Pronome: Ele/Dele
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true">
-    <img  alt="Vazco0's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vazco0?cardType=github&theme=github-dark&preferLogin=true" />
+  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=true&Border=0456DD">
+    <img  alt="Vazco0's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Vazco0?cardType=github&theme=github-dark&preferLogin=true&Border=0456DD" />
   </a>
 
   
